@@ -895,4 +895,8 @@ button, input, textarea {
   .stats-grid {
     grid-template-columns: 1fr 1fr;
   }
+  @media (max-width: 768px) {
+  .ord {
+    display: none;
+  }
 }/*# sourceMappingURL=style.css.map */
